@@ -1,6 +1,6 @@
-### Hi there 👋, I am [Anubhav](https://anubhav.ga/)
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="18px"> I am [Anubhav](https://anubhav.ga/)
 
-- 🌱 I’m currently learning [Blitz.JS](https://blitzjs.com/)
+- 🌱 I’m currently working as a Fullstack developer
 - 💬 We can chat about Tech, Football and Gaming
 - ⚡ Fun fact: My name means 'Experience' in Hindi
 
